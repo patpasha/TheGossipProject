@@ -1,24 +1,18 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+EXO ACTIVERECORDS - Ici Gossip Girl, celle qui révèle au grand jour ce que l’élite THPaise se donne tant de mal à cacher. 
 
-Things you may want to cover:
+POUR LA DARONNE
 
-* Ruby version
+ruby -v 2.5.1 rails -v 5.2.1
 
-* System dependencies
+Avant tout, n'oublie pas de caler un petit : 
 
-* Configuration
+```gem install faker```
 
-* Database creation
+```bundle install```
 
-* Database initialization
+Toulouse - ville rose 
 
-* How to run the test suite
+XOXO Gossip Girl !
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+DECOUVERTE DE LA DATABASE ROR
